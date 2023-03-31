@@ -2,6 +2,7 @@
 This is the code for wavelet transform fusion.
 Please check that the file has the same number of rows and columns using the resampling method before fusing.
 The method consists of the following steps:
+
 1.Read the input raster files and get the geographic coordinate information.
 
 2.Read raster datasets and preprocess the data by replacing any NoData values with zero.
