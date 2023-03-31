@@ -1,4 +1,4 @@
-# Josephjiao7-Wavelet-transform-fusion-for-spatial-data
+# Wavelet-transform-fusion-for-spatial-data
 This is the code for wavelet transform fusion.
 Please check that the file has the same number of rows and columns using the resampling method before fusing.
 The method consists of the following steps:
