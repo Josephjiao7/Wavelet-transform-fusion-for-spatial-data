@@ -14,5 +14,6 @@ The method consists of the following steps:
 5.Perform wavelet reconstruction using the fused coefficients to obtain the final fused image.Write the output image to a GeoTIFF file.
 
 If you use this code for your research, please cite the following paper:
+
 Tile: Introducing big data to measure the spatial heterogeneity of human activities for optimizing the ecological security pattern: A case study from Guangzhou City, China.
 Journal: Ecological Indicators
