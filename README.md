@@ -1,5 +1,6 @@
 # Wavelet-transform-fusion-for-spatial-data
-This is the code for wavelet transform fusion.
+This is the code for wavelet transform fusion. 
+Python==3.9, gdal==3.3.2, pywt==1.4.1.
 Please check that the file has the same number of rows and columns using the resampling method before fusing.
 The method consists of the following steps:
 
@@ -16,4 +17,5 @@ The method consists of the following steps:
 If you use this code for your research, please cite the following paper:
 
 Tile: Introducing big data to measure the spatial heterogeneity of human activities for optimizing the ecological security pattern: A case study from Guangzhou City, China.
+
 Journal: Ecological Indicators.
