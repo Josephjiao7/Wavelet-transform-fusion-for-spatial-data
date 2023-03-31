@@ -16,4 +16,4 @@ The method consists of the following steps:
 If you use this code for your research, please cite the following paper:
 
 Tile: Introducing big data to measure the spatial heterogeneity of human activities for optimizing the ecological security pattern: A case study from Guangzhou City, China.
-Journal: Ecological Indicators
+Journal: Ecological Indicators.
