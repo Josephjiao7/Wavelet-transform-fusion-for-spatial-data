@@ -1,5 +1,9 @@
 # Wavelet-transform-fusion-for-spatial-data
 
+The source code of Wavelet transform fusion method in the paper "Introducing big data to measure the spatial heterogeneity of human activities for optimizing the ecological security pattern: A case study from Guangzhou City, China.". DOI:   Authors: Zhenzhi Jiao, Zhuo Wu, Baojing Wei, Yifan Luo, Yongquan Lin, Yongtai Xue, Shaoying Li, Feng Gao. Journal: Ecological Indicators. Year: 2023.
+
+If you use this code for your research, please cite this paper.
+
 This is the code for wavelet transform fusion. 
 
 Python==3.9, gdal==3.3.2, pywt==1.4.1.
@@ -18,8 +22,3 @@ The method consists of the following steps:
 
 5.Perform wavelet reconstruction using the fused coefficients to obtain the final fused image.Write the output image to a GeoTIFF file.
 
-If you use this code for your research, please cite the following paper:
-
-Tile: Introducing big data to measure the spatial heterogeneity of human activities for optimizing the ecological security pattern: A case study from Guangzhou City, China.
-
-Journal: Ecological Indicators.
