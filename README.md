@@ -1,7 +1,11 @@
 # Wavelet-transform-fusion-for-spatial-data
+
 This is the code for wavelet transform fusion. 
+
 Python==3.9, gdal==3.3.2, pywt==1.4.1.
+
 Please check that the file has the same number of rows and columns using the resampling method before fusing.
+
 The method consists of the following steps:
 
 1.Read the input raster files and get the geographic coordinate information.
