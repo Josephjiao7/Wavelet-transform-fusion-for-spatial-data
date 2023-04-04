@@ -1,6 +1,6 @@
 # Wavelet-transform-fusion-for-spatial-data
 
-The source code of Wavelet transform fusion method in the paper "Introducing big data to measure the spatial heterogeneity of human activities for optimizing the ecological security pattern: A case study from Guangzhou City, China.". DOI:   Authors: Zhenzhi Jiao, Zhuo Wu, Baojing Wei, Yifan Luo, Yongquan Lin, Yongtai Xue, Shaoying Li, Feng Gao. Journal: Ecological Indicators. Year: 2023.
+The source code of Wavelet transform fusion method in the paper "Introducing big data to measure the spatial heterogeneity of human activities for optimizing the ecological security pattern: A case study from Guangzhou City, China.". DOI: 10.1016/j.ecolind.2023.110203  Authors: Zhenzhi Jiao, Zhuo Wu, Baojing Wei, Yifan Luo, Yongquan Lin, Yongtai Xue, Shaoying Li, Feng Gao. Journal: Ecological Indicators. Year: 2023.
 
 If you use this code for your research, please cite this paper.
 
