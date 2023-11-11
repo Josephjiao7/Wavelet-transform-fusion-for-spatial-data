@@ -22,3 +22,4 @@ The method consists of the following steps:
 
 5.Perform wavelet reconstruction using the fused coefficients to obtain the final fused image.Write the output image to a GeoTIFF file.
 
+For Chinese readers, you can see the introduction at WeChat, https://mp.weixin.qq.com/s?__biz=MzIzMjU3MjYyNQ==&mid=2247500268&idx=1&sn=789ad17dcf2ce099825676b85509069d&chksm=e8905252dfe7db44fec08790bd817188d2451a6fba4b1286952255ee9986fc3cbe4ece0552f2&scene=126&sessionid=1699722609#rd
